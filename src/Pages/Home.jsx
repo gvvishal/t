@@ -48,7 +48,7 @@ function Home() {
                 gutterBottom
                 sx={{ color: "primary.main" }}
               >
-                AI-Powered Brain Tumor Detection
+                AI-Powered Brain Tumor Detection by vishal
               </Typography>
               <Typography
                 variant="h6"
@@ -327,3 +327,4 @@ function Home() {
 }
 
 export default Home;
+
